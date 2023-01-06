@@ -1,2 +1,2 @@
-# undergrad-project-slide
-A repository for the presentation slide of undergraduate projects. Used for Ph.D. application interview. Created 2023-01. 
+# Slide: Ronghao's Undergraduate Projects
+A repository for the presentation slide of undergraduate projects. This repository is created 2023-01 for Ph.D. application interview.
