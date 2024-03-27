@@ -1,9 +1,0 @@
-\beamer@sectionintoc {1}{Fructose \& Expression of Aldosterone-Response Genes\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 5}{6}{1}{1}
-\beamer@subsectionintoc {1}{1}{Introduction\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 6}{7}{1}{1}
-\beamer@subsectionintoc {1}{2}{Methodology\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 7}{8}{1}{1}
-\beamer@subsectionintoc {1}{3}{Results\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 12}{13}{1}{1}
-\beamer@subsectionintoc {1}{4}{Works To be Continued\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 15}{16}{1}{1}
-\beamer@sectionintoc {1}{Neural Basis of Fingertip Biomechanics\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 18}{19}{2}{1}
-\beamer@subsectionintoc {1}{1}{Introduction\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 19}{20}{2}{1}
-\beamer@subsectionintoc {1}{2}{Methodology\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 20}{21}{2}{1}
-\beamer@subsectionintoc {1}{3}{Results\unhbox \voidb@x \cleaders \hbox to0.8em{\hss .\hss }\hfill \kern \z@ 23}{24}{2}{1}
